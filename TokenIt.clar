@@ -1,6 +1,6 @@
 ;; TokenIt
 ;; Cultivated By NoCodeClarity, Inc.
-;; Dedicated to the Builders and All of the Community
+;; Dedicated to the Builders and All of the Real Estate Equity Seekers 
 
 (define-data-var token-price ufixed)
 
